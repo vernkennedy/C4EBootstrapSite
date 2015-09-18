@@ -98,8 +98,6 @@ h6 {
 }
 
 @media(max-width:767px) {
-.navbar-nav{position:fixed; margin-left:9%;}
-
 
 .topnav {
     font-size: 14px; 
