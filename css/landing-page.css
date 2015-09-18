@@ -24,11 +24,11 @@ h6 {
 .topnav {
     font-size: 14px; 
 	background:rgba(255,255,255,0.62);
-	width: 100%;
+	width: 80%;
 }
 .navbar-nav{}
 
-.navbar-fixed-top{border-bottom:4px solid black; width: 100%;}
+.navbar-fixed-top{border-bottom:4px solid black; width: 80%;}
 .lead {
     font-size: 18px;
     font-weight: 400;
