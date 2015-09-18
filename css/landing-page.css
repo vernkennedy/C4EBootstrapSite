@@ -98,7 +98,7 @@ h6 {
 }
 
 @media(max-width:767px) {
-.navbar-nav{position:relative; margin-left:9%;}
+.navbar-nav{margin-left:9%;}
 
 
 .topnav {
