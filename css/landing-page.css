@@ -25,7 +25,7 @@ h6 {
     font-size: 14px; 
 	background:rgba(255,255,255,0.62);
 }
-.navbar-nav{position:relative; margin-left:9%;}
+.navbar-nav{position:relative; margin-left:0%;}
 
 .navbar-fixed-top{border-bottom:4px solid black;}
 .lead {
@@ -98,6 +98,9 @@ h6 {
 }
 
 @media(max-width:767px) {
+.navbar-nav{position:relative; margin-left:9%;}
+
+
 .topnav {
     font-size: 14px; 
 	background:rgba(255,255,255,0.9);
