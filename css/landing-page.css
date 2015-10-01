@@ -173,7 +173,8 @@ p.copyright {
 
 
 
-.navbar-fixed-top{border-bottom:4px solid black; }
+.navbar-fixed-top{border-bottom:4px solid black; width:100%; overflow-x:hidden; }
+
 .lead {
     font-size: 18px;
     font-weight: 400;
