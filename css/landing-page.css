@@ -63,11 +63,13 @@ h6 {
 
 @media(max-width:767px) {
     .intro-message {
-        padding-bottom: 15%;
+        padding-bottom: 5%;
+		width:100%;
+		
     }
 
     .intro-message > h1 {
-        font-size: 3em;
+        font-size: 1em;
     }
 
     ul.intro-social-buttons > li {
@@ -111,6 +113,15 @@ h6 {
     float: left;
     width: 200px;
     border-top: 3px solid #e7e7e7;
+}
+/*THE BEST ONES FOR MOBILE
+*
+*
+*
+*
+*/
+.container{background:ed; width:100%}
+.topnav{background:reen; position:relative; width:90%;}
 }
 
 .banner {
@@ -173,7 +184,7 @@ p.copyright {
 
 
 
-.navbar-fixed-top{border-bottom:4px solid black; width:100%; overflow-x:hidden; }
+.navbar-fixed-top{border-bottom:4px solid black; }
 
 .lead {
     font-size: 18px;
